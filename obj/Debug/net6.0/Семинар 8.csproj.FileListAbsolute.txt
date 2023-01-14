@@ -1,0 +1,15 @@
+D:\GB\C#\Семинар 8\bin\Debug\net6.0\Семинар 8.exe
+D:\GB\C#\Семинар 8\bin\Debug\net6.0\Семинар 8.deps.json
+D:\GB\C#\Семинар 8\bin\Debug\net6.0\Семинар 8.runtimeconfig.json
+D:\GB\C#\Семинар 8\bin\Debug\net6.0\Семинар 8.dll
+D:\GB\C#\Семинар 8\bin\Debug\net6.0\Семинар 8.pdb
+D:\GB\C#\Семинар 8\obj\Debug\net6.0\Семинар 8.csproj.AssemblyReference.cache
+D:\GB\C#\Семинар 8\obj\Debug\net6.0\Семинар 8.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C#\Семинар 8\obj\Debug\net6.0\Семинар 8.AssemblyInfoInputs.cache
+D:\GB\C#\Семинар 8\obj\Debug\net6.0\Семинар 8.AssemblyInfo.cs
+D:\GB\C#\Семинар 8\obj\Debug\net6.0\Семинар 8.csproj.CoreCompileInputs.cache
+D:\GB\C#\Семинар 8\obj\Debug\net6.0\Семинар 8.dll
+D:\GB\C#\Семинар 8\obj\Debug\net6.0\refint\Семинар 8.dll
+D:\GB\C#\Семинар 8\obj\Debug\net6.0\Семинар 8.pdb
+D:\GB\C#\Семинар 8\obj\Debug\net6.0\Семинар 8.genruntimeconfig.cache
+D:\GB\C#\Семинар 8\obj\Debug\net6.0\ref\Семинар 8.dll
